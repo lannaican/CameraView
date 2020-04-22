@@ -3,12 +3,12 @@ package com.star.cameraview;
 import android.Manifest;
 import android.graphics.Bitmap;
 import android.os.Bundle;
-
-import androidx.appcompat.app.AppCompatActivity;
+import android.support.v7.app.AppCompatActivity;
 
 import com.star.camera.JCameraView;
 import com.star.camera.listener.ClickListener;
 import com.star.camera.listener.JCameraListener;
+
 
 public class MainActivity extends AppCompatActivity {
 
